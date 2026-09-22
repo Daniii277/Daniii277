@@ -1,19 +1,8 @@
-# 👋 Daniel González | Computer Engineer
+# Computer Engineer
 
 I am a Computer Engineering student focused on **High-Performance Computing (HPC)**, systems programming, and performance-oriented software design.
 I enjoy working close to the hardware, optimizing algorithms, and exploring parallel computing architectures.
 
----
-
-## 🎯 Objectives
-
-* ⚡ Specialize in **High Performance Computing (HPC)**
-* 🧠 Learn and apply **OpenMP, MPI, and CUDA**
-* 🚀 Build highly optimized and parallel systems
-* 🧩 Improve low-level programming and system design skills
-* 📊 Focus on performance analysis and benchmarking
-
----
 
 ## 🛠 Languages & Tools
 
