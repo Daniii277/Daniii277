@@ -4,7 +4,7 @@ I am a Computer Engineering student focused on **High-Performance Computing (HPC
 I enjoy working close to the hardware, optimizing algorithms, and exploring parallel computing architectures.
 
 
-## 🛠 Languages & Tools
+## Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
